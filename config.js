@@ -19,7 +19,7 @@ for (let i = 0; i < ownerlist.length; i++) {
     global.owner.push([ownerlist[i], true]);
 }
 //
-global.botname = process.env.BOTNAME || 'MR AF 𒋲𝐕𝐈𝐁𝐄 🩸 𒋲🩸ONLY𒋲⁩';
+global.botname = process.env.BOTNAME || 'MR AF⁩';
 global.pairingNumber = process.env.BOT_NUMBER || '50937248552' ;  // put your number here
 global.SESSION_ID = process.env.SESSION_ID || 'pr9igSoK#fDoz_VmmhCbLgSb8EsyACrVX0MwVlZjMiIw8c4nw8Vg' ;  // put your session id here
 
@@ -73,7 +73,7 @@ global.APIKeys = {
 
 // Sticker WM
 global.premium = 'true'
-global.packname = '𒋲𝐕𝐈𝐁𝐄 🩸 𒋲🩸ONLY𒋲⁩ 👉🏿Søɨŧ ŧᵾ đømɨnɇs , søɨŧ ŧᵾ ŧɇ łȺɨssɇs đømɨnɇɍ... Ⱥłøɍs fȺɨŧ łɇ ƀøn ȼħøɨx🕊️'
+global.packname = 'Mr Af ⁩ 👉🏿Søɨŧ ŧᵾ đømɨnɇs , søɨŧ ŧᵾ ŧɇ łȺɨssɇs đømɨnɇɍ... Ⱥłøɍs fȺɨŧ łɇ ƀøn ȼħøɨx🕊️'
 global.author = 'Mr  Af
 global.menuvid = 'https://i.imgur.com/2Sp3cqD.mp4'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/Techlord01'
