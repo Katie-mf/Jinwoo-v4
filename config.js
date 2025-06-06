@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const defaultOwner = '50937248552';
+const defaultOwner = '263780166288';
 
 
 // Check for the OWNERS environment variable; if not found, use the default
@@ -19,13 +19,13 @@ for (let i = 0; i < ownerlist.length; i++) {
     global.owner.push([ownerlist[i], true]);
 }
 //
-global.botname = process.env.BOTNAME || '';
+global.botname = process.env.BOTNAME || 'ᴊɪɴᴡᴏᴏ ᴠ4';
 global.pairingNumber = process.env.BOT_NUMBER || '50937248552' ;  // put your number here
 global.SESSION_ID = process.env.SESSION_ID || 'pr9igSoK#fDoz_VmmhCbLgSb8EsyACrVX0MwVlZjMiIw8c4nw8Vg' ;  // put your session id here
 
 global.mods = []
 global.prems = []
-global.allowed = ['50937248552', '50932844372']
+global.allowed = ['263714757857', '263780934873']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -73,8 +73,8 @@ global.APIKeys = {
 
 // Sticker WM
 global.premium = 'true'
-global.packname = ''
-global.author = 'Mr  Af
+global.packname = 'ᴊɪɴᴡᴏᴏ ᴠ4'
+global.author = 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ'
 global.menuvid = 'https://i.imgur.com/2Sp3cqD.mp4'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/Techlord01'
 global.dygp = 'https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A'
